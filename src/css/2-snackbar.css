@@ -1,0 +1,15 @@
+.form label {
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+fieldset {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 200px;
+  max-height: 100px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
